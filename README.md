@@ -5,7 +5,7 @@
 https://docs.docker.com/get-docker/
 - Descargar Docker Compose:
 https://docs.docker.com/compose/install/
-- Importar el siguiente repositorio: xxxxxxxxx
+- Descargar los archivos del repositorio: https://github.com/mdcamposf/meli_message_queue_redis_api-main.git
 - Abrir el repositorio en Docker y luego correr los siguientes comandso en el Terminal en el orden indicado:
     - primero: docker-compose build
     - segundo: docker-compose up
